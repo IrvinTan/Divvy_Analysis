@@ -1,6 +1,6 @@
 # Divvy Data Analysis
 
- This is the capstone project for the [Google Data Analytics Professional certificate](https://www.coursera.org/professional-certificates/google-data-analytics). Divvy is a bikeshare service that offers different ranges of pricing and memberships for its service. The goal of the project is to consolidate, clean, analyze, and present findings for the most recent twelve months of customer data. We can determine customer behavior and trends through the analysis of the data which may lead to potential market opportunities in regards to pricing and marketing of the business' services.
+ This is the capstone project for the [Google Data Analytics Professional certificate](https://www.coursera.org/professional-certificates/google-data-analytics). Divvy is a bikeshare service that offers different ranges of pricing and memberships for its service. The goal of the project is to consolidate, clean, analyze, and present findings for the most recent twelve months of customer data. We can determine customer behavior and trends through the analysis of the data which may yield potential pricing and marketing opportunities for the business' services.
  
  ## Analysis in R
  ![number of rides](https://i.gyazo.com/3b5bae05fc832e3817fd6791a053cef3.png)</br>
