@@ -13,4 +13,4 @@
 The data is presented in an [interactive dashboard](https://public.tableau.com/views/Book1_16847596195040/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) for usability and understanding
 
 ## Tableau Story
-The findings from the Data Analysis are presented in an [interactive story](https://public.tableau.com/shared/K43B2NBMC?:display_count=n&:origin=viz_share_link).
+The findings from the Data Analysis are presented in an [interactive story](https://public.tableau.com/shared/K43B2NBMC?:display_count=n&:origin=viz_share_link) on Tableau.
